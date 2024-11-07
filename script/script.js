@@ -4,8 +4,6 @@ console.clear();
 // Riferimento agli elementi dell'HTML
 const lampadina = document.getElementById('lampadinaImg'); // Cambia qui per puntare all'immagine
 const bottoneAccensione = document.getElementById('bottoneAccensione');
-console.log(lampadina);
-console.log(bottoneAccensione);
 
 // Funzione per gestire accensione e spegnimento
 bottoneAccensione.addEventListener('click', function() {
