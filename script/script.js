@@ -1,4 +1,4 @@
-"use script"
+"use strict"
 console.clear();
 
 // Riferimento agli elementi dell'HTML
