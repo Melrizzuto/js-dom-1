@@ -31,7 +31,7 @@
 #lampadina img {
     display: block;
     margin: 0 auto;
-    padding-left: 13px;
+    transform: scaleX(-1);
 }
 
 button {
